@@ -20,7 +20,7 @@ export default function Footer() {
           </a>
         </div>
 
-        <p className="text-gray-400 text-sm sm:text-base">© 2024 AndresCode. Todos los derechos reservados.</p>
+        <p className="text-gray-400 text-sm sm:text-base">© 2025 AndresCode. Todos los derechos reservados.</p>
       </div>
     </footer>
   )
